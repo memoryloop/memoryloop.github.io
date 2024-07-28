@@ -44,10 +44,11 @@ img {
 }
 
 #description {
-/*    margin-top: 5px;*/
+    margin-top: 0.2em;
     margin-right: auto;
     margin-bottom: 20px;
     left: auto;
+    font-size: 15px;
 }
 
 main {
